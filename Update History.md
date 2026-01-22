@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.8.34 Windows 11 Update (December 6th, 2023)
+
+- Added 31 stock version wallpapers which were designed for Windows 11
+
+---
+
 ### v3.7.12 Instant Collection Update (November 8th, 2023)
 
 - Added 11 wallpapers which are searched online

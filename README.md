@@ -10,6 +10,7 @@ This collection is maintained for **personal use and reference**. You are welcom
 - Primarily **Pixel-style stock wallpapers**
 - Minimal, clean, and aesthetic designs
 - Optimized for modern smartphone resolutions
+- Some Wallpapers are based on Android beta Releases
 
 📂 Directory:  
 `/Mobile/`

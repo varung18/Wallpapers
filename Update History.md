@@ -1,5 +1,11 @@
 ## List of commited updates (descending order)
 
+### v4.4.18 Theme Update 4: Rail and Trains & Forest (June 20th, 2024)
+
+- A total of 16 wallpapers are added. 9 of them are from Rail & Trains, and rest 7 are from Forest.
+
+---
+
 ### v4.3.13 Theme Update 3: Waterfall & Amusement Park (May 23rd, 2024)
 
 - A total of 12 wallpapers are added. 7 of them are from Waterfall, and rest 5 of them are from the view of Amusement Parks.

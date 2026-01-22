@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.4.15 Captured on Pixel Update (August 9th, 2023)
+
+- Added 13 mobile wallpapers which are in real world, captured on Google Pixel Phones. Took from Google Pixel Wallpapers > Captured on Pixel Series.
+
+---
+
 ### v3.3.25 Curated Culture Update (July 5th, 2023)
 
 - Added 23 wallpapers which are designed for the subject 'Curated Culture', took from Google Pixel Wallpapers

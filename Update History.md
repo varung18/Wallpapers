@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.5.22 Google Art & Culture Update (September 6th, 2023)
+
+- Added 21 mobile wallpapers which are designed for the subject 'Art & Culture', took from Google Pixel Wallpapers > Art & Culture Series
+
+---
+
 ### v3.4.15 Captured on Pixel Update (August 9th, 2023)
 
 - Added 13 mobile wallpapers which are in real world, captured on Google Pixel Phones. Took from Google Pixel Wallpapers > Captured on Pixel Series.

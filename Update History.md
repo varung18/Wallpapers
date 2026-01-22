@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.7.12 Instant Collection Update (November 8th, 2023)
+
+- Added 11 wallpapers which are searched online
+
+---
+
 ### v3.6.20 Google Earth Update (October 11th, 2023)
 
 - Added 19 mobile wallpapers which were taken from the sky to capture the beautiful grounds and earth. Took from Google Earth wallpapers and Google Pixel Wallpapers > Earth

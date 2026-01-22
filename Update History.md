@@ -74,6 +74,7 @@
 
 ### v2.3.35 Searched Wallpapers Update (February 18th, 2022)
 
+- Introducing wallpapers and wallpaper packs for PC (both Desktops and Laptops)
 - Added 34 Wallpapers which I searched from Microsoft Store, as some of them are from wallpaper packs.
 
 ---

@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### 1.6.5 Google Pixel 3a Update (June 18th, 2021)
+
+- Added 3 stock wallpapers from Google Pixel 3a
+
+---
+
 ### 1.5.26 Google Pixel 3 Update (June 1st, 2021)
 
 - Added 25 wallpapers which are stock versions from Google Pixel 3

@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### 1.3.15 Google Pixel 1 Update (March 31st, 2021)
+
+- Introducing Google Pixel 1 Stock Wallpapers, which consists 14 of them
+
+---
+
 ### 1.2.19 Android 5 & Nexus 6 Stock Wallpapers (March 3rd, 2021)
 
 - Added 17 wallpapers, which are stock wallpapers for Google Nexus 6, and also based on Android 5.1 beta wallpapers

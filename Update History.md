@@ -1,6 +1,6 @@
 ## List of commited updates (descending order)
 
-### v4.1.15 Theme Update 1: United Kingdom & The Great Wall of China
+### v4.1.15 Theme Update 1: United Kingdom & The Great Wall of China (March 28th, 2024)
 
 - Introducing Theme Update Series. A total of 8 updates will add and cater the differrent and vibrant wallpapers.
 - 13 wallpapers are added. 8 of them are from the Theme United Kingdom and rest 5 from 'The Great Wall of China'

@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.9.16 Windows 6 Prologue Update (September 14th, 2022)
+
+- Added 15 wallpapers which are stock versions from Microsoft Longhorn. Microsoft Longhorn was tend to be the next edition of windows or microsoft operating systems after Windows XP (as major upgrade), and Windows 2003 Server (as major upgrade for Server). Later then, it became the sixth edition of Windows, which now we call it as Windows Vista, released in 2006
+
+---
+
 ### v2.8.15 Windows 8 Update (August 17th, 2022)
 
 - Added 14 wallpapers which are stock versions from Windows 8 (2012)

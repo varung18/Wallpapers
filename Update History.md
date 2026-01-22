@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### 1.7.22 Google Pixel 4 Update (July 22nd, 2021)
+
+- Added 21 stock wallpapers from Google Pixel 4
+
+---
+
 ### 1.6.5 Google Pixel 3a Update (June 18th, 2021)
 
 - Added 3 stock wallpapers from Google Pixel 3a

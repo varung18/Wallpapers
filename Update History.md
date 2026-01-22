@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.9.7 Google Pixel 6 Leaked Wallpapers (January 17th, 2024)
+
+- Added 6 new mobile wallpapers, which were for commercial purposes for Google Pixel 6
+
+---
+
 ### v3.8.34 Windows 11 Update (December 6th, 2023)
 
 - Added 31 stock version wallpapers which were designed for Windows 11

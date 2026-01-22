@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.2.8 Google Pixel Commercial Update (January 7th, 2022)
+
+- Added 6 wallpapers which used in the commercial purposes for releasing Google Pixel phones, when they startup, I guess they are the default wallpapers
+
+---
+
 ### v2.1.14 Google Pixel 5 Update (December 3rd, 2021)
 
 - Added 12 stock wallpapers from the device Google Pixel 5

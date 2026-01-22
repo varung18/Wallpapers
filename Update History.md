@@ -1,8 +1,14 @@
 ## List of commited updates should be shown here
 
-### v2.7.32 Windows 7 Update (July 13th, 2022)
+### v2.8.15 Windows 8 Update (August 17th, 2022)
 
--- Added 30 wallpapers which are stock versions from Windows 7 (2009)
+- Added 14 wallpapers which are stock versions from Windows 8 (2012)
+
+---
+
+### v2.7.32 Windows 7 Update (July 20th, 2022)
+
+- Added 30 wallpapers which are stock versions from Windows 7 (2009)
 
 ---
 

@@ -1,6 +1,6 @@
 ## List of commited updates should be shown here
 
-### 1.1.12 Nexus 5 Stock Wallpapers (February 3rd, 2021)
+### 1.1.12 Android 5 & Nexus 5 Stock Wallpapers (February 3rd, 2021)
 
 Added 9 wallpapers, which are stock wallpapers for Google Nexus 5, and also based on Android 5 wallpapers
 

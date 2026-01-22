@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v1.9.16 Google Pixel 4a Update (September 14th, 2021)
+
+- Added 15 stock wallpapers from the device Google Pixel 4a
+
+---
+
 ### v1.8.14 Android 7+8+10 Update (August 19th, 2021)
 
 - Added 13 wallpapers which are beta release wallpapers from Android 7, Android 8, and Android 10

@@ -1,5 +1,11 @@
 ## List of commited updates (descending order)
 
+### v4.7.22 Theme Update 7: Marshy Forest & South America (September 26th, 2024)
+
+- A total of 21 wallpapers are added. 9 of them from the Marshy Forest (Forest & River) view, and rest 12 of them are for the continent South America.
+
+---
+
 ### v4.6.21 Theme Update 6: Snow Forest & India (August 22nd, 2024)
 
 - A total of 20 wallpapers are added. 6 of them are from the Snow Forest view vibes, and rest 14 of them are from the country India

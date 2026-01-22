@@ -1,4 +1,10 @@
-## List of commited updates should be shown here
+## List of commited updates (descending order)
+
+### v4.0.0 Google Pixel 6 Material UI Wallpapers (February 14th, 2024)
+
+- Added 27 new mobile wallpapers which are designed for the Android 12's all new feature 'Material UI', and for the same thing, Google Pixel 6 was designed too. These wallpapers are being captured by 3 different artists, and respectively, separate folders were created.
+
+---
 
 ### v3.9.7 Google Pixel 6 Leaked Wallpapers (January 17th, 2024)
 

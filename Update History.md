@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.0.0 Google Pixel Live Wallpapers Update (October 30th, 2021)
+
+- There are 5 different apks yearwise which contain annual google pixel live wallpapers, and since each and every apk exceeds the basic upload size, ie, 25mb, theres an txt file and has drive link to access the zip file
+
+---
+
 ### v1.9.16 Google Pixel 4a Update (September 14th, 2021)
 
 - Added 15 stock wallpapers from the device Google Pixel 4a

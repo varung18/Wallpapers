@@ -1,5 +1,11 @@
 ## List of commited updates (descending order)
 
+### v4.3.13 Theme Update 3: Waterfall & Amusement Park (May 23rd, 2024)
+
+- A total of 12 wallpapers are added. 7 of them are from Waterfall, and rest 5 of them are from the view of Amusement Parks.
+
+---
+
 ### v4.2.12 Theme Update 2: Japan Sakura Bloom & The Long Road (April 25th, 2024)
 
 - A total of 11 wallpapers are added. 7 of them are from Japan Sakura Bloom, and rest 4 of them are from Long Road vibes.

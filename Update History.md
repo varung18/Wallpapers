@@ -4,6 +4,8 @@
 
 - Added 40 wallpapers which were collected from my Dad's PC. Note: Next 4 updates will be same for Version 3.0, as there are total 100+ wallpapers, and uploading all of them wont be happen, first 2 updates will be committed 35 days periodically.
 
+---
+
 ### v2.9.16 Windows 6 Prologue Update (September 14th, 2022)
 
 - Added 15 wallpapers which are stock versions from Microsoft Longhorn. Microsoft Longhorn was tend to be the next edition of windows or microsoft operating systems after Windows XP (as major upgrade), and Windows 2003 Server (as major upgrade for Server). Later then, it became the sixth edition of Windows, which now we call it as Windows Vista, released in 2006

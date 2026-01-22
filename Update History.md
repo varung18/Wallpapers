@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### Update 1.8.14 Android 7+8+10 Update (August 19th, 2021)
+
+- Added 13 wallpapers which are beta release wallpapers from Android 7, Android 8, and Android 10
+
+---
+
 ### 1.7.22 Google Pixel 4 Update (July 22nd, 2021)
 
 - Added 21 stock wallpapers from Google Pixel 4

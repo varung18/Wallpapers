@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### 1.5.26 Google Pixel 3 Update (June 1st, 2021)
+
+- Added 25 wallpapers which are stock versions from Google Pixel 3
+
+---
+
 ### 1.4.20 Google Pixel 2 Update (April 25th, 2021)
 
 - 18 wallpapers has been added which are stock wallpapers from Google Pixel 2

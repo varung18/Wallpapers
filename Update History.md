@@ -1,5 +1,11 @@
 ## List of commited updates (descending order)
 
+### v4.5.22 Theme Update 5: USA & Venice (July 18th, 2024)
+
+- A total of 21 wallpapers are added. 12 of them are from the country The United States of America, and rest 9 of them are from the famous city Venice
+
+---
+
 ### v4.4.18 Theme Update 4: Rail and Trains & Forest (June 20th, 2024)
 
 - A total of 16 wallpapers are added. 9 of them are from Rail & Trains, and rest 7 are from Forest.

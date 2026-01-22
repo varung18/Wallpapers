@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.4.37 Standard Collection Update (April 1st, 2022)
+
+- Added 32 wallpapers for Laptops and Desktops which are genuninely vibrant at colors.
+
+---
+
 ### v2.3.35 Searched Wallpapers Update (February 18th, 2022)
 
 - Added 34 Wallpapers which I searched from Microsoft Store, as some of them are from wallpaper packs.

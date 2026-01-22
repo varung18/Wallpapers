@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.6.20 Google Earth Update (October 11th, 2023)
+
+- Added 19 mobile wallpapers which were taken from the sky to capture the beautiful grounds and earth. Took from Google Earth wallpapers and Google Pixel Wallpapers > Earth
+
+---
+
 ### v3.5.22 Google Art & Culture Update (September 6th, 2023)
 
 - Added 21 mobile wallpapers which are designed for the subject 'Art & Culture', took from Google Pixel Wallpapers > Art & Culture Series

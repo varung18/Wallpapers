@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.2.14 Google Pixel 6 Update (June 7th, 2023)
+
+- Added 12 stock wallpapers which are from Google Pixel 6
+
+---
+
 ### v3.1.11 Windows 10 Update (May 11th, 2023)
 
 - Added 10 stock wallpapers from Windows 10

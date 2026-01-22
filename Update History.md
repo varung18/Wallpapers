@@ -1,5 +1,11 @@
 ## List of commited updates (descending order)
 
+### v4.6.21 Theme Update 6: Snow Forest & India (August 22nd, 2024)
+
+- A total of 20 wallpapers are added. 6 of them are from the Snow Forest view vibes, and rest 14 of them are from the country India
+
+---
+
 ### v4.5.22 Theme Update 5: USA & Venice (July 18th, 2024)
 
 - A total of 21 wallpapers are added. 12 of them are from the country The United States of America, and rest 9 of them are from the famous city Venice

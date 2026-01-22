@@ -1,5 +1,11 @@
 ## List of commited updates (descending order)
 
+### v4.2.12 Theme Update 2: Japan Sakura Bloom & The Long Road (April 25th, 2024)
+
+- A total of 11 wallpapers are added. 7 of them are from Japan Sakura Bloom, and rest 4 of them are from Long Road vibes.
+
+---
+
 ### v4.1.15 Theme Update 1: United Kingdom & The Great Wall of China (March 28th, 2024)
 
 - Introducing Theme Update Series. A total of 8 updates will add and cater the differrent and vibrant wallpapers.

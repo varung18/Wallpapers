@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.7.32 Windows 7 Update (July 13th, 2022)
+
+-- Added 30 wallpapers which are stock versions from Windows 7 (2009)
+
+---
+
 ### v2.6.18 Windows Vista Update (June 8th, 2022)
 
 - Added 17 wallpapers which are stock versions from Windows Vista (2006)

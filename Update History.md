@@ -1,5 +1,12 @@
 ## List of commited updates (descending order)
 
+### v4.1.15 Theme Update 1: United Kingdom & The Great Wall of China
+
+- Introducing Theme Update Series. A total of 8 updates will add and cater the differrent and vibrant wallpapers.
+- 13 wallpapers are added. 8 of them are from the Theme United Kingdom and rest 5 from 'The Great Wall of China'
+
+---
+
 ### v4.0.0 Google Pixel 6 Material UI Wallpapers (February 14th, 2024)
 
 - Added 27 new mobile wallpapers which are designed for the Android 12's all new feature 'Material UI', and for the same thing, Google Pixel 6 was designed too. These wallpapers are being captured by 3 different artists, and respectively, separate folders were created.

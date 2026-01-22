@@ -20,6 +20,7 @@ This collection is maintained for **personal use and reference**. You are welcom
 ## 🖥️ PC / Windows Wallpapers
 - Mostly **stock Windows wallpapers**
 - Some of them are downloaded from Microsoft Store as wallpaper packs
+- Theme and Location based wallpapers exists in Themes folder
 - High-quality and high-resolution images
 - Suitable for desktops and laptops
 

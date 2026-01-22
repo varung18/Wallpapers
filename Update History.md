@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.3.35 Searched Wallpapers Update (February 18th, 2022)
+
+-- Added 34 Wallpapers which I searched from Microsoft Store, as some of them are from wallpaper packs.
+
+---
+
 ### v2.2.8 Google Pixel Commercial Update (January 7th, 2022)
 
 - Added 6 wallpapers which used in the commercial purposes for releasing Google Pixel phones, when they startup, I guess they are the default wallpapers

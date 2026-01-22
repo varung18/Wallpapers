@@ -2,7 +2,7 @@
 
 ### v2.3.35 Searched Wallpapers Update (February 18th, 2022)
 
--- Added 34 Wallpapers which I searched from Microsoft Store, as some of them are from wallpaper packs.
+- Added 34 Wallpapers which I searched from Microsoft Store, as some of them are from wallpaper packs.
 
 ---
 

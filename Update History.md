@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v3.3.25 Curated Culture Update (July 5th, 2023)
+
+- Added 23 wallpapers which are designed for the subject 'Curated Culture', took from Google Pixel Wallpapers
+
+---
+
 ### v3.2.14 Google Pixel 6 Update (June 7th, 2023)
 
 - Added 12 stock wallpapers which are from Google Pixel 6

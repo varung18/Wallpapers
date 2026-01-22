@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### 1.4.20 Google Pixel 2 Update (April 25th, 2021)
+
+- 18 wallpapers has been added which are stock wallpapers from Google Pixel 2
+
+---
+
 ### 1.3.15 Google Pixel 1 Update (March 31st, 2021)
 
 - Introducing Google Pixel 1 Stock Wallpapers, which consists 14 of them

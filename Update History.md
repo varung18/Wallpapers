@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.5.41 Standard Collection Update 2 (May 11th, 2022)
+
+- Added 39 wallpapers for Laptops and Desktops which are at the same collection of just previous update.
+
+---
+
 ### v2.4.37 Standard Collection Update (April 1st, 2022)
 
 - Added 32 wallpapers for Laptops and Desktops which are genuninely vibrant at colors.

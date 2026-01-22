@@ -1,5 +1,11 @@
 ## List of commited updates should be shown here
 
+### v2.6.18 Windows Vista Update (June 8th, 2022)
+
+- Added 17 wallpapers which are stock versions from Windows Vista (2006)
+
+---
+
 ### v2.5.41 Standard Collection Update 2 (May 11th, 2022)
 
 - Added 39 wallpapers for Laptops and Desktops which are at the same collection of just previous update.
